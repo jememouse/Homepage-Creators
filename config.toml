@@ -3,7 +3,7 @@ base_url = "https://live.animae.cc"
 
 title = "个人主页"
 
-author = "jeme1"
+author = "jeme"
 
 description = "一些美好的事物"
 
@@ -23,12 +23,12 @@ highlight_code = false
 [extra]
 
 [extra.site]
-start_year = 2024
+start_year = 2025
 logo = "/img/logo.webp"
 # default to use logo value
 nav_logo = "/img/logo.webp"
 # 联系邮箱
-mail = "contact@example.com"
+mail = "jememouse@gmail.com"
 # ICP 备案号
 compliance_icp = "ICP备XXXXXXXX号"
 # 公安备案号
@@ -83,7 +83,7 @@ avif_enable = true
 type = "header"
 [extra.index.widgets.value]
 title_1 = "jeme"
-title_2 = "@jeme"
+title_2 = "@jememouse"
 bio_1 = "专注于科技、音乐等领域<span class=\"inline-word\">跨界创新</span>"
 bio_2 = "分享经验与见解"
 about_url = "https://blog.jiaxiang.wang/about/"
@@ -99,7 +99,7 @@ url = "https://github.com/iWangJiaxiang"
 [[extra.index.widgets]]
 type = "author"
 [extra.index.widgets.value]
-name = "王嘉祥"
+name = "jeme"
 avatar = "/img/logo01.webp"
 title = "Team leader, architect,"
 # title = "Team leader, architect, senior engineer, singer songwriter, creator. Engaging in HPC, Cloud, AI and more."
@@ -128,7 +128,7 @@ name = "开发者主页"
 type = "event"
 [extra.index.widgets.value]
 tip = "大事件"
-title = "王嘉祥博客主题<br>正式开源！"
+title = "jeme博客主题<br>正式开源！"
 bio = "一个为创作者而构建的主题，0成本、0运维开始你的博客生涯，与各位优秀博主一同进步！"
 button = "立刻获取源代码"
 note = "基于 Zola 构建"
