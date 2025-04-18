@@ -1,11 +1,11 @@
 # The URL the site will be built for
-base_url = "https://jiaxiang.wang"
+base_url = "https://live.animae.cc"
 
 title = "个人主页"
 
-author = "王嘉祥"
+author = "jeme"
 
-description = "好奇、探索、创造。个人主页导航网站。"
+description = "一些美好的事物"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
