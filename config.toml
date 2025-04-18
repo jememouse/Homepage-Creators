@@ -69,7 +69,7 @@ menus = [
 
 [extra.nav.right]
 menus = [
-    { name = "作者博客", url = "https://blog.jiaxiang.wang", internal = false},
+    { name = "作者博客", url = "https://live.animae.cc", internal = false},
     { name = "作者 Github", url = "https://github.com/iWangJiaxiang", internal = false},
 ]
 
@@ -82,8 +82,8 @@ avif_enable = true
 [[extra.index.widgets]]
 type = "header"
 [extra.index.widgets.value]
-title_1 = "王嘉祥"
-title_2 = "Jiaxiang Wang"
+title_1 = "jeme"
+title_2 = "@jeme"
 bio_1 = "专注于科技、音乐等领域<span class=\"inline-word\">跨界创新</span>"
 bio_2 = "分享经验与见解"
 about_url = "https://blog.jiaxiang.wang/about/"
